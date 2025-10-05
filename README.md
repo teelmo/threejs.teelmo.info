@@ -1,6 +1,6 @@
 # threejs.teelmo.info
 
-My homepage.
+Three.js testing.
 
 ## Rights of usage
 
