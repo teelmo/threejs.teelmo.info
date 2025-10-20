@@ -95,7 +95,7 @@ function PanoramaViewer() {
 
     // --- Multiple Clouds ---
     const cloudTexture = loader.load(
-      '/assets/img/vecteezy_soft-white-fluffy-clouds-shape-floating-special-effect-3d_42726218.png'
+      './assets/img/vecteezy_soft-white-fluffy-clouds-shape-floating-special-effect-3d_42726218.png'
     );
     cloudTexture.colorSpace = THREE.SRGBColorSpace;
 
