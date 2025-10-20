@@ -8,10 +8,10 @@ function PanoramaViewer() {
 
   useEffect(() => {
     const scenes = [
-      { src: '/assets/img/1.jpg', rotationYDeg: 0 },
-      { src: '/assets/img/2.jpg', rotationYDeg: 90 },
-      { src: '/assets/img/3.jpg', rotationYDeg: 180 },
-      { src: '/assets/img/4.jpg', rotationYDeg: 270 },
+      { src: './assets/img/1.jpg', rotationYDeg: 0 },
+      { src: './assets/img/2.jpg', rotationYDeg: 90 },
+      { src: './assets/img/3.jpg', rotationYDeg: 180 },
+      { src: './assets/img/4.jpg', rotationYDeg: 270 },
     ];
 
     const currentMount = mountRef.current;
