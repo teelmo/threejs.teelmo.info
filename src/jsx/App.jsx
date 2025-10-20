@@ -1,8 +1,10 @@
 import React from 'react';
-import MountainScene from './MountainScene.jsx';
+import AnotherScene from './AnotherScene.jsx';
+// import MountainScene from './MountainScene.jsx';
 
 function App() {
-  return <MountainScene />;
+  // return <MountainScene />;
+  return <AnotherScene />;
 }
 
 export default App;
