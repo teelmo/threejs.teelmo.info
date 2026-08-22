@@ -1,6 +1,6 @@
-import React from 'react';
 import AnotherScene from './AnotherScene.jsx';
 // import MountainScene from './MountainScene.jsx';
+import '../styles/styles.css';
 
 function App() {
   // return <MountainScene />;

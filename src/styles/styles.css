@@ -1,0 +1,5 @@
+@import '@teelmo/web-styles';
+
+#app-root .app {
+  margin: auto;
+}
